@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+    margin-top: 20px;
+}
+.btn{
+    margin-left: 20px;
+    border: 1px solid black;
+    padding: 0px 5px 0px 5px;
+    font-family: 'Alkatra', cursive;
+
+}
+.btn-class{
+    margin-left: 40px;
+}
+.todo-class{
+    display: flex;
+}
+.todo-p{
+    margin-left: 10px;
+}
